@@ -1,10 +1,9 @@
 main:
   - title: "Lasso Gripper: A String Shooting-Retracting Mechanism for Shape-Adaptive Grasping"
     authors: "Qiyuan Qiao, Yu Wang, Xiyu Fan, Peng Lu"
-    conference_short: "arXiv"
-    conference: "arXiv preprint (arXiv:2506.14163), 2025."
+    conference_short: "ROBIO"
+    conference: "IEEE International Conference on Robotics and Biomimetics (ROBIO), 2025."
     pdf: "https://arxiv.org/pdf/2506.14163.pdf"
     page: "https://arxiv.org/abs/2506.14163"
     bibtex: "https://arxiv.org/abs/2506.14163"
-    notes: "Preprint"
     image: "./assets/img/lasso_gripper.png"

@@ -21,6 +21,7 @@ I am a Ph.D. student at the [School of Computing and Data Science](https://www.c
 
 ## News
 
+- **[Oct. 2025]** Our paper "Lasso Gripper" has been accepted to ROBIO 2025.
 - **[Jun. 2025]** Our paper "Lasso Gripper: A String Shooting-Retracting Mechanism for Shape-Adaptive Grasping" is available on arXiv.
 - **[Sept. 2024]** Successfully developed a novel lasso-inspired gripper for handling oversized and delicate objects.
 

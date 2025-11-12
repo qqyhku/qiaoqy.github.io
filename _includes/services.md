@@ -12,3 +12,10 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.ieee-ras.org/publications/ieee-robotics-and-automation-letters"><autocolor>IEEE Robotics and Automation Letters (RAL)</autocolor></a></li>
 </ul>
+
+<h4 style="margin:0 10px 0;">Teaching Assistant</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><autocolor>CCST9050 Robot: Flesh, Machines, Intelligence, The University of Hong Kong</autocolor></li>
+  <li><autocolor>COMP3278 Introduction to database management systems, The University of Hong Kong</autocolor></li>
+</ul>
