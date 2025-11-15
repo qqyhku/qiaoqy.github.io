@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;">Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><autocolor>ICRA 2025, IROS 2025, IEEE Robotics and Automation Letters (RA-L), npj Artificial Intelligence</autocolor></li>
+  <li><autocolor>ICRA, IROS, RA-L, npj Artificial Intelligence</autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Teaching Assistant</h4>
