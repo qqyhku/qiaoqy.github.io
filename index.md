@@ -21,9 +21,10 @@ I am a Ph.D. student at the [School of Computing and Data Science](https://www.c
 
 ## News
 
+- **[Oct. 2025]** Our paper "Breaking the Static Assumption: A Dynamic-Aware LIO Framework via Spatio-Temporal Normal Analysis" has been accepted to IEEE Robotics and Automation Letters (RA-L).
 - **[Oct. 2025]** Our paper "Lasso Gripper" has been accepted to ROBIO 2025.
-- **[Jun. 2025]** Our paper "Lasso Gripper: A String Shooting-Retracting Mechanism for Shape-Adaptive Grasping" is available on arXiv.
-- **[Sept. 2024]** Successfully developed a novel lasso-inspired gripper for handling oversized and delicate objects.
+- **[Nov. 2025]** Our paper "TORM: Transparent Objects Reconstruction and Manipulation With Multi-View Segmentation" has been accepted to IEEE Robotics and Automation Letters (RA-L).
+- **[Nov. 2025]** Our paper "Flow-Aided Flight Through Dynamic Clutters From Point to Motion" has been accepted to IEEE Robotics and Automation Letters (RA-L).
 
 {% include_relative _includes/publications.md %}
 
