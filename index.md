@@ -14,17 +14,17 @@ I am a Ph.D. student at the [School of Computing and Data Science](https://www.c
 
 ## Research Interests
 
-- **Robotic Grasping:** Adaptive gripper design, shape-adaptive grasping, and manipulation planning
-- **Computer Vision for Robotics:** 3D reconstruction, object recognition, and pose estimation for grasping
-- **Tactile Intelligence:** Tactile sensing and embodied intelligence for robotic manipulation
-- **Mechanical Design:** Mechanism design, dynamic modeling, and control systems
+- **Robotic Grasping and Manipulation:** Adaptive grippers, dynamic object interaction, and contact-rich manipulation.
+- **3D Perception for Robotics:** 3D reconstruction and scene understanding for navigation and manipulation.
+- **Embodied Intelligence:** Tactile sensing and sensor fusion for robust robotic control.
 
 ## News
 
+- **[Nov. 2025]** Our paper "Flow-Aided Flight Through Dynamic Clutters From Point to Motion" has been accepted to IEEE Robotics and Automation Letters (RA-L).
+- **[Nov. 2025]** Our paper "TORM: Transparent Objects Reconstruction and Manipulation With Multi-View Segmentation" has been accepted to IEEE Robotics and Automation Letters (RA-L).
 - **[Oct. 2025]** Our paper "Breaking the Static Assumption: A Dynamic-Aware LIO Framework via Spatio-Temporal Normal Analysis" has been accepted to IEEE Robotics and Automation Letters (RA-L).
 - **[Oct. 2025]** Our paper "Lasso Gripper" has been accepted to ROBIO 2025.
-- **[Nov. 2025]** Our paper "TORM: Transparent Objects Reconstruction and Manipulation With Multi-View Segmentation" has been accepted to IEEE Robotics and Automation Letters (RA-L).
-- **[Nov. 2025]** Our paper "Flow-Aided Flight Through Dynamic Clutters From Point to Motion" has been accepted to IEEE Robotics and Automation Letters (RA-L).
+- **[Dec. 2022]** My patent "Wire-controlled flexible manipulator" (CN218110822U) has been granted.
 
 {% include_relative _includes/publications.md %}
 
